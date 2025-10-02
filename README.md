@@ -8,3 +8,5 @@ This is README,
 1. monday
 1. tursday
 1. wednesday
+
+## Part 1
